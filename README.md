@@ -4,4 +4,4 @@
 
 app นี้เขียนขึ้นเพราะหงุดหงิดที่ฟาร์ม Poring ตั้งนานแต่ไม่ได้ Card ซักทีเลยเขียนโปรแกรมจำลองว่าเราต้องตีกี่ตัวถึงจะได้ Card 1 ใบ
 
-![alt text](Assets/Sprites/ss01.png "Title")
+![screenshot](Assets/Sprites/ss01.png "screenshot")
